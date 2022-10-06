@@ -1,9 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/07/f6/f1/07f6f1a1183615fb6eea8c75500c61da.gif)]
-
-
 <h1 align="center">Hi 👋, I'm Kauan</h1>
 <h3 align="center">I'm always learning</h3>
-<!--<img align="right" alt="Cool GIF" width="400" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif">-->
+<img align="right" alt="Cool GIF" width="300" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauanbs1&label=Profile%20views&color=008ae0&style=flat" alt="kauanbs1" /> </p>
 
