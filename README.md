@@ -2,7 +2,6 @@
 <h3 align="center">I'm always learning</h3>
 <img align="right" alt="Cool GIF" width="300" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kauanbs1&label=Profile%20views&color=008ae0&style=flat" alt="kauanbs1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
